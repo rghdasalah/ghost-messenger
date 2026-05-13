@@ -8,3 +8,4 @@ frontend/.env.local
 dist/
 dump.rdb
 project.md
+discussion-guide.md
